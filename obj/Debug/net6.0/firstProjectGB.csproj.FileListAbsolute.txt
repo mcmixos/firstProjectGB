@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.AssemblyInfo.cs
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\bin\Debug\net6.0\firstProjectGB.exe
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\bin\Debug\net6.0\firstProjectGB.deps.json
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\bin\Debug\net6.0\firstProjectGB.runtimeconfig.json
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\bin\Debug\net6.0\firstProjectGB.dll
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\bin\Debug\net6.0\firstProjectGB.pdb
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.dll
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\refint\firstProjectGB.dll
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.pdb
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\firstProjectGB.genruntimeconfig.cache
+C:\Users\admin\Desktop\DZ\Task 1\firstProjectGB\obj\Debug\net6.0\ref\firstProjectGB.dll
